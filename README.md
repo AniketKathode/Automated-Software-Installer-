@@ -44,7 +44,8 @@ python3 gui_installer.py
 4️⃣ (Optional) Install Using .deb Package
 
 sudo dpkg -i software_installer.deb
-```bash
+bash```
+
 
 ## 🎯 Future Improvements
 ✅ Add a progress bar for installation.
@@ -67,3 +68,5 @@ If you'd like to contribute, fork the repo and submit a PR! 😃
 
 #### **4️⃣ Verify the README.md File Exists**
 Run this command:
+```bash
+ls
