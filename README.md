@@ -15,8 +15,6 @@ software_installer/ │── gui_installer.py # Python GUI script (Tkinter) │
 ── requirements.txt # Dependencies (Python) │── software_installer.deb # Debian package (optional) │
 ── README.md # Documentation │── .gitignore # Ignore unnecessary files
 
-
-
 ## 📜 Prerequisites
 Make sure you have the following installed:  
 - Python 3.8+  
@@ -34,24 +32,21 @@ git clone https://github.com/yourusername/software_installer.git
 cd software_installer
 
 2️⃣ Install Dependencies
-
 pip install -r requirements.txt
 
 3️⃣ Run the Application
-
 python3 gui_installer.py
 
 4️⃣ (Optional) Install Using .deb Package
-
 sudo dpkg -i software_installer.deb
-bash```
-
-
+```bash```
+```
 ## 🎯 Future Improvements
 
 ✅ Add a progress bar for installation.
 ✅ Improve error handling & validation.
 ✅ Package it for other Linux distros (RPM for Fedora).
+
 
 ## 📜 License
 
@@ -68,4 +63,20 @@ If you'd like to contribute, fork the repo and submit a PR! 😃
 
 #### **4️⃣ Verify the README.md File Exists**
 Run this command:
+
+
+
+
+
+
+
+
+
+if not run use this
+Let's debug the issue. Can you provide:
+
+The exact error message you see when running python3 gui_installer.py.
+The output of ls -l ~/software_installer/ (to check if all files are correctly placed).
+The output of cat ~/software_installer/install_log.txt (to check if logs are being generated).
+Try running these and share the output. 🚀
 
