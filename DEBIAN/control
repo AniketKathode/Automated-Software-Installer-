@@ -1,0 +1,7 @@
+Package: software-installer
+Version: 1.0
+Section: utility
+Priority: optional
+Architecture: amd64
+Maintainer: Aniket Kathode
+Description: A simple automated software installer for Linux.
