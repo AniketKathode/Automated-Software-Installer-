@@ -48,18 +48,18 @@ bash```
 
 
 ## 🎯 Future Improvements
+
 ✅ Add a progress bar for installation.
 ✅ Improve error handling & validation.
 ✅ Package it for other Linux distros (RPM for Fedora).
 
 ## 📜 License
+
 This project is licensed under the MIT License.
 
 ##⭐ Contributing
+
 If you'd like to contribute, fork the repo and submit a PR! 😃
-
-
----
 
 #### **3️⃣ Save and Exit the File**
 - **Press** `CTRL + X` to exit the Nano editor.  
@@ -68,5 +68,4 @@ If you'd like to contribute, fork the repo and submit a PR! 😃
 
 #### **4️⃣ Verify the README.md File Exists**
 Run this command:
-```bash
-ls
+
