@@ -27,8 +27,6 @@ To install missing dependencies, run:
 ```bash
 sudo apt install python3-tk
 
-
-
 💻 Installation & Usage
 1️⃣ Clone the Repository
 
@@ -46,16 +44,17 @@ python3 gui_installer.py
 4️⃣ (Optional) Install Using .deb Package
 
 sudo dpkg -i software_installer.deb
+```bash
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 ✅ Add a progress bar for installation.
 ✅ Improve error handling & validation.
 ✅ Package it for other Linux distros (RPM for Fedora).
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-⭐ Contributing
+##⭐ Contributing
 If you'd like to contribute, fork the repo and submit a PR! 😃
 
 
@@ -68,5 +67,3 @@ If you'd like to contribute, fork the repo and submit a PR! 😃
 
 #### **4️⃣ Verify the README.md File Exists**
 Run this command:
-```bash
-ls
