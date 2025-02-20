@@ -59,7 +59,7 @@ If you'd like to contribute, fork the repo and submit a PR! 😃
 #### **3️⃣ Save and Exit the File**
 - **Press** `CTRL + X` to exit the Nano editor.  
 - **Press** `Y` to confirm saving the file.  
-- **Press** `Enter` to save the file with the same name.  
+- **Press** `Enter` to save the file with the same names.  
 
 #### **4️⃣ Verify the README.md File Exists**
 Run this command:
