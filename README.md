@@ -1,6 +1,6 @@
 # 🛠️ Automated Software Installer & Validator
 
-A simple **Bash + Python hybrid tool** for **installing and uninstalling software** on Ubuntu. This project automates software setup and logs the process.
+A Simple **Bash + Python hybrid tool** for **installing and uninstalling software** on Ubuntu. This project automates software setup and logs the process.
 
 ## 🚀 Features
 ✅ **GUI Interface** – Install/Uninstall software with a user-friendly UI.  
